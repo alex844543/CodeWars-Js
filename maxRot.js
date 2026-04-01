@@ -16,6 +16,6 @@ for(let i = 0 ; i < str.length -1 ; i++ ){
   result = result.map(Number)
   
   return Math.max(...result)
-  
+
 
 }
