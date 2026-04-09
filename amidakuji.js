@@ -15,6 +15,4 @@ function amidakuji(ar){
   }
   
   return newArr
-  
-  
 }
