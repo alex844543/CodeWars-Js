@@ -8,7 +8,7 @@ function isSatorSquare(tablet) {
         tablet[i][j] !== tablet[j][i] || 
         tablet[i][j] !== tablet[n - 1 - i][n - 1 - j]
       ) {
-        return false
+        return false 
       }
 
     }
