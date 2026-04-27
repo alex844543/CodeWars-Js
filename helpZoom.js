@@ -9,7 +9,6 @@ function helpZoom(key){
     if(key[i] !== key[key.length - (i+1)])
       return "No"
   }
-  
   return "Yes"
   
 }
