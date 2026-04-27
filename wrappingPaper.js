@@ -8,7 +8,6 @@ function wrappingPaper(boxes) {
     let smallest  = Math.min(l*w,w*h,h*l)
     total += smallest + surface
   }
-  
-  return total
+  return total;
   
 }
