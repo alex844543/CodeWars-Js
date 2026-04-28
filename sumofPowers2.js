@@ -1,5 +1,6 @@
 / return an array of numbers (that are a power of 2)
 // for which the input "n" is the sum
+//code wars problem
 const powers = n => {
   
   const binary = n.toString(2).split("").map(Number);
