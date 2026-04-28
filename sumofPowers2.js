@@ -27,5 +27,4 @@ const powers = n => {
   return result.sort((a,b) => a-b)
   
 
-
-};
+}
