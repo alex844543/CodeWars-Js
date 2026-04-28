@@ -1,5 +1,5 @@
 function isValidWalk(walk) {
-let count = {};
+let count = {}
   
   for(let w of walk){
     if(count[w] === undefined){
