@@ -3,5 +3,5 @@ for(let keys in globalThis){
     
     Bomb.CutTheWire(globalThis[keys]) ; 
   }
-}
+} 
 
