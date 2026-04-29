@@ -1,5 +1,5 @@
 function highestRank(arr){
-
+//yooo
 let map = {}
 
 for(let a of arr){
