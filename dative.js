@@ -9,7 +9,7 @@ for(let char of word){
 }
   
   if(lastVol === 'e'|| lastVol === 'é'||lastVol === 'i'||lastVol === 'í'||lastVol === 'ö'||lastVol === 'ő'||lastVol === 'ü'||lastVol === 'ű'){
-     return word + 'nek'
+     return word + 'nek' 
      }else if(
      lastVol === 'a'||
            lastVol === 'á'||
