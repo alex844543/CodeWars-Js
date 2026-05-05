@@ -1,6 +1,7 @@
 function twoSort(s) {
 
-  let sorted = s.sort()
+  let sorted =
+    s.sort();
   
   let first = sorted[0]
   let result = ''
