@@ -13,6 +13,4 @@ function twoSort(s) {
   }
   
   return result
-  
-  
 }
