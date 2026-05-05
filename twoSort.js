@@ -9,7 +9,7 @@ function twoSort(s) {
     if(i !== first.length-1)
       result+=first[i] + "***"
     else 
-    result+=first[i]
+    result+=first[i];
   }
   
   return result
