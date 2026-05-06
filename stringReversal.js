@@ -6,7 +6,7 @@ function solve(st, a, b){
   
   let reversed = middle.split("").reverse().join("")
   
-  return right + reversed + left
+  return right + reversed + left ;
   
   
 }
