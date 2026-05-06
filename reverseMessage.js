@@ -1,7 +1,10 @@
 function reverseMessage(str) { 
 
   let strr = str.split(" ")
+
+  
   let result = ''
+  
   
   for(let i = 0 ; i < strr.length ; i++){
         if(strr[i] === "")
