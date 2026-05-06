@@ -4,7 +4,8 @@ function reverseMessage(str) {
   let result = ''
   
   for(let i = 0 ; i < strr.length ; i++){
-        if(strr[i] === "") continue
+        if(strr[i] === "")
+          continue
 
     let arr = strr[i].toLowerCase().split("")
     
