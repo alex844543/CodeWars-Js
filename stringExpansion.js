@@ -1,5 +1,4 @@
 function stringExpansion(s) {
-
 if(s === "") return ""
   let str = ''
       let num = 1
