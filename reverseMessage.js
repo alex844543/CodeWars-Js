@@ -10,6 +10,7 @@ function reverseMessage(str) {
     
     let reversed = arr.reverse()
     reversed[0] = reversed[0].toUpperCase()
+    
 result += reversed.join("") + " "  
     
   }
