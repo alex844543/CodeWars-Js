@@ -1,6 +1,4 @@
 function maxFall(arr) {
-
-
       let biggest = 0
       let highest = arr[0]
 
