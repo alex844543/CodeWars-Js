@@ -8,7 +8,7 @@ function growingPlant(upSpeed, downSpeed, desiredHeight) {
     height+=upSpeed
     days++
     
-    if(height >= desiredHeight) return days
+    if(height >= desiredHeight) return days;
     
     height-=downSpeed
     
