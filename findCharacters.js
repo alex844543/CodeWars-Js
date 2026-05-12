@@ -3,6 +3,7 @@ function findCharacters(matrix){
   let split = matrix.split("\n")
   
   let count = {}
+
   
   
   for(let arr of split){
