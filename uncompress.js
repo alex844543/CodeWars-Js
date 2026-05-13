@@ -3,8 +3,7 @@ function uncompress(music) {
   let answer = []
   
   for(let c of spittt){
-    if(c.includes("*")){
-      
+    if(c.includes("*")){ 
       
       let numbers = c.split("*").map(Number)
       
