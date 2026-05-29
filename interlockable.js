@@ -5,6 +5,7 @@ let y = b.toString(2)
 
 
 let max = Math.max(x.length, y.length)
+  
 
 x = x.padStart(max, '0')
 y = y.padStart(max, '0')
