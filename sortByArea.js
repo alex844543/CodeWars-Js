@@ -2,7 +2,9 @@ function sortByArea(array) {
 let result = []
 
 for(let i = 0 ; i < array.length ; i++){
+  
   if(Array.isArray(array[i])){
+    
     let res = array[i][0] * array[i][1]
     result.push(res)
     
