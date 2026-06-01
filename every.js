@@ -8,6 +8,4 @@ for(let i = start || 0 ; i < arr.length ; i+=interval || 1){
   
   return result
 
-
-
 }
