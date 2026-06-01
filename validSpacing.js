@@ -6,6 +6,7 @@ if(s.trim() === s && !s.includes("  ")){
 }else {
   return false
 }
+  
 
 
 }
