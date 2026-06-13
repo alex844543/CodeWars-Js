@@ -2,6 +2,7 @@ function isValidWalk(walk) {
 let count = {}
   
   for(let w of walk){
+    
     if(count[w] === undefined){
       count[w] = 1;
     }else{
