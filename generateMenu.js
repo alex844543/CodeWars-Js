@@ -1,0 +1,5 @@
+function generateMenu (menuItems) {
+  return menuItems
+    .map(item => `<a href="${item.url}">${item.text}</a>`)
+    .join('');
+}
