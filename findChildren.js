@@ -12,6 +12,7 @@ function findChildren(dancingBrigade) {
   
   for(let keys in count){
   let str = keys.toUpperCase() + keys.repeat(count[keys]-1)
+    
   result+=str
   }
   
