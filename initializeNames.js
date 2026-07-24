@@ -1,6 +1,7 @@
 function initializeNames(name){
 
 let spit  = name.split(" ")
+  
 let res = []
 
 for(let i = 0 ; i < spit.length ; i++){
