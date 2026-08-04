@@ -7,6 +7,7 @@ function absentVowel(x){
     o : 3 ,
     u : 4
   }
+
   
   let count = {
         a: 0 , 
