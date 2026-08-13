@@ -10,6 +10,7 @@ let count = {}
       count[w] = 1;
     }else{
       count[w]++
+      
     }
   }
   
