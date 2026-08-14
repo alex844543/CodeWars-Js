@@ -5,6 +5,7 @@ class Guesser {
   }
 
   guess(n) {
+    
     if (this.lives <= 0) {
       
       throw new Error("Already dead");
