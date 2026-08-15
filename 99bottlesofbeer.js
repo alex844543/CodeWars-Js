@@ -2,6 +2,7 @@ var sing = function () {
   let lyrics = [];
 
   for (let i = 99; i > 0; i--) {
+    
   
     lyrics.push(`${i} bottle${i === 1 ? '' : 's'} of beer on the wall, ${i} bottle${i === 1 ? '' : 's'} of beer.`);
     
