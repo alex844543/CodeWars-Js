@@ -7,6 +7,7 @@ let splited1 = s1.split("\n");
   
   
   for(let i = 0 ; i < splited1.length ; i++){
+    
     let word = splited1[i];
     let s22 = splited2[splited2.length-(i+1)]
     let n = word.slice(0,i+1);
