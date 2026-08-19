@@ -5,6 +5,7 @@ function validParentheses(parenStr) {
       curr++;
     } else {
       curr--;
+      
     }
     if (curr < 0) {
       return false;
