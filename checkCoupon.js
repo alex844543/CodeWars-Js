@@ -2,7 +2,8 @@ function checkCoupon(enteredCode, correctCode, currentDate, expirationDate) {
     if(enteredCode != correctCode){
       return false
     }else if(typeof enteredCode != typeof correctCode) return false;
-  
+
+    
   const months = [
   "January","February","March","April","May","June",
   "July","August","September","October","November","December"
