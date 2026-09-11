@@ -1,6 +1,7 @@
 class Guesser {
   constructor(number, lives) {
     this.number = number;
+    
     this.lives = lives;
   }
 
