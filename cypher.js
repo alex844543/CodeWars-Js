@@ -3,6 +3,7 @@ function cypher(string) {
 let stringgg = string.split("")
   
 for (let i = 0; i<stringgg.length ; i++){
+  
   let char = stringgg[i]
   if(char === 'I' || char === 'l'){
     stringgg[i] = '1'
