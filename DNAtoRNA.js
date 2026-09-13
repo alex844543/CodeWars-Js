@@ -8,6 +8,7 @@ for(let c of dna){
     res.push('U')
   } 
   else
+    
   res.push(c)
 }
   
