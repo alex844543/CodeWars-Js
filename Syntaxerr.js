@@ -7,5 +7,6 @@ function checkAlive (health) {
     return false
   } else  {
     return true
+    
   }
 }
