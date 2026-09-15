@@ -7,6 +7,7 @@ function decode(str) {
 
   let spt = str.split(" ");
 
+  
   for (let ch of spt) {
     let strig = "";
 
