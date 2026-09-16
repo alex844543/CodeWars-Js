@@ -2,6 +2,7 @@ function absentVowel(x){
 
   let index = {
     
+    
     a: 0 , 
     e : 1,
     i : 2 ,
