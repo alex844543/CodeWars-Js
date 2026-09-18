@@ -3,6 +3,7 @@ class Guesser {
     this.number = number;
     
     this.lives = lives;
+    
   }
 
   guess(n) {
