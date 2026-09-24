@@ -6,6 +6,7 @@ function add(arr) {
   
   
   for(let i = 1 ; i <arr.length ; i++){
+    
     el += arr[i]
     final.push(el)
     
