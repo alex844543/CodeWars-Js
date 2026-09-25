@@ -7,6 +7,7 @@ var sing = function () {
   
     lyrics.push(`${i} bottle${i === 1 ? '' : 's'} of beer on the wall, ${i} bottle${i === 1 ? '' : 's'} of beer.`);
     
+    
    
     lyrics.push(`Take one down and pass it around, ${i-1 === 0 ? 'no more' : i-1} bottle${i-1 === 1 ? '' : 's'} of beer on the wall.`);
   }
