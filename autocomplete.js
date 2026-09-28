@@ -3,6 +3,7 @@ function autocomplete(input, dictionary){
   let inTY = input.toLowerCase()
   for(let char of inTY){
     if(char >= 'a' && char <='z'){
+      
       newStr+=char
     }
     }
