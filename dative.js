@@ -4,6 +4,7 @@ let vowel = 'aáeéiíoóöőuúüű'
 let lastVol = ''
 
 for(let char of word){
+  
   if(vowel.includes(char))
     lastVol = char
 }
