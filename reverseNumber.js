@@ -2,6 +2,7 @@ function reverseNumber(n) {
   if (n < 0) {
     n = n.toString()
     n = n.split("")
+    
 
     let fr = n[0]
     let res = n.slice(1).reverse().join("")
