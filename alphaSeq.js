@@ -1,5 +1,6 @@
 function alphaSeq (str) {
   let arr = []
+  
 for(let c of str){
   let up = c.toUpperCase()
   let position =  up.charCodeAt(0) - 64
