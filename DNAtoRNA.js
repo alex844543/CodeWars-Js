@@ -1,6 +1,7 @@
 function DNAtoRNA(dna) {
 
 let res = []
+  
 
 for(let c of dna){
   
