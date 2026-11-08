@@ -2,7 +2,7 @@ function isHex(str) {
 
   if(str.length !== 3 && str.length !== 6){
     
-    return false
+    return false;
   }
   
   
