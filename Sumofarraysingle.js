@@ -6,6 +6,7 @@ let sum = 0 ;
     let num  = arr[i];
     let count = 0;
     
+    
     for(let j  = 0 ; j<arr.length ; j++){
       if(num === arr[j]){
         count++;
