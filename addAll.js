@@ -7,6 +7,7 @@ let res = 0;
   
     
     let first = numbers.shift();
+    
     let sec = numbers.shift();
 
   
