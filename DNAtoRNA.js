@@ -6,6 +6,7 @@ let res = []
 for(let c of dna){
   
   
+  
   if(c === 'T'){
     
     
